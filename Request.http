@@ -1,0 +1,6 @@
+POST http://localhost:9000/api/drinks/
+Content-Type: application/json
+
+{
+    "id": "1"
+}
