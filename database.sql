@@ -1,6 +1,6 @@
 CREATE DATABASE nodejs_api;
 
-CREATE TABLE `products` (
+CREATE TABLE `drinks` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(255) DEFAULT NULL,
   `image` varchar(255) DEFAULT NULL,
